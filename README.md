@@ -1,3 +1,7 @@
+> ![NOTE]
+> I use [uv](https://github.com/astral-sh/uv) to manage the lite project and plan to modify it into a better puzzle format (may use Jupyter 😂).
+> To setup the environment, just do `uv sync` and `source ./venv/bin/activate`
+
 # Triton Puzzles Lite
 
 Modified from [Triton-Puzzles](https://github.com/srush/Triton-Puzzles/) by Sasha Rush and others, which is a good educational notebook for learning Triton compiler. Triton Puzzles Lite is a lite version of Triton Puzzles, decoupling it from many unnecessary dependencies and making it more accessible for beginner users.
