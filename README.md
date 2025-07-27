@@ -1,4 +1,4 @@
-> ![NOTE]
+> [!NOTE]
 > This repo is based on <https://github.com/SiriusNEO/Triton-Puzzles-Lite>.
 > I use [uv](https://github.com/astral-sh/uv) to manage the lite project and plan to modify it into a better puzzle format (may use Jupyter 😂).
 > To setup the environment, just do `uv sync` and `source ./venv/bin/activate`.
